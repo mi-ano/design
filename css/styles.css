@@ -1,0 +1,46 @@
+/************** FILE IMPORTS **************/
+/******************************************/
+
+@import url('bootstrap.css');
+@import url('fonts.css');
+
+
+
+
+/************** GENRAL STUFF *************/
+/*****************************************/
+
+.fs12 {
+    font-size: 12px;
+}
+
+.fs13 {
+    font-size: 13px;
+}
+
+
+.fs14 {
+    font-size: 14px;
+}
+
+
+.fs15 {
+    font-size: 15px;
+}
+
+.large-green-button {
+   width: 100%;
+   padding: 30px;
+   border-color: blue;
+}
+
+ 
+
+
+
+.fs30s {
+    font-size: 30px;
+}
+
+
+
